@@ -1,0 +1,28 @@
+.Product {
+    width: 200px;
+    background-color: white;
+    margin: 0 1rem 1rem 0 ;
+    padding: 1rem;
+}
+
+.Product-icon {
+    font-size: 92px;
+    width: 100%;
+    color: red;
+    text-align: center;
+}
+
+.Product-title {
+    padding: 0.5rem 0;
+    font-weight: bold;
+}
+
+.Product-add {
+    background-color: green;
+    border-radius: 6px;
+    padding: 0.5rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}

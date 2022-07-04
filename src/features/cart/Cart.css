@@ -1,0 +1,15 @@
+.Cart {
+    width: 280px;
+}
+
+.Cart-checkout {
+    background-color: green;
+    border-radius: 6px;
+    padding: 0.5rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border: 0;
+    width: 100%;
+    cursor: pointer;
+}
